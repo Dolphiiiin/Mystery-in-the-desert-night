@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+
+}
+
+body{
+	width: auto;
+	height: auto;
+	background-color: black;
+	background-size: contain;
+	color: firebrick;
+}
+
+.height-long{
+	padding-top: 2000000px;
+}
